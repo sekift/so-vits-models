@@ -66,9 +66,9 @@
 | 54   | jokowi              | https://huggingface.co/zhen182/jokowi-so-vits-svc-modelv1    | 2.08k    | 4.0     | -          |
 | 55   | 崩坏                | https://huggingface.co/HaHaiko/SOVITS-SVC-Hi3-Characters     | 1.92k    | 4.0     | -          |
 | 56   | ATRI                | https://huggingface.co/2DIPW/ATRI_SoVITS                     | 39.2k    | 4.0     | +          |
-|      |                     |                                                              |          |         |            |
-|      |                     |                                                              |          |         |            |
-|      |                     |                                                              |          |         |            |
+| 57   | Madobe Family(5)    | https://huggingface.co/FinalIroha/Madobe_Family_SoVITS4.0_Model | 101.4k   | 4.0     | +          |
+| 58   | 龙王的工作(8)       | https://huggingface.co/FinalIroha/Ryuuou_no_Oshigoto_SoVITS4.1_Model | 9.6k     | 4.1     | +          |
+| 59   | 韩国明星(11)        | https://huggingface.co/Shashashasha                          | 6k+      | 4.0     | -          |
 |      |                     |                                                              |          |         |            |
 |      |                     |                                                              |          |         |            |
 |      |                     |                                                              |          |         |            |
@@ -78,14 +78,30 @@
 
 ## 2 应用
 
-|      | 人物     | 地址                                                         | 项目      | 是否可用 |
-| ---- | -------- | ------------------------------------------------------------ | --------- | -------- |
-| 1    | 周杰伦   | https://huggingface.co/spaces/wangxiuliang01/Voice-Cloning-for-Bilibili | so-vits等 | +        |
-| 2    | 孙燕姿等 | https://kevinwang676-test-1.hf.space/                        | so-vits   | +        |
-| 3    | 音乐生成 | https://huggingface.co/spaces/facebook/MusicGen              | music-gen | +        |
-| 4    | 文/音    | https://huggingface.co/spaces/SuCicada/Lain-vits             | TTS/vits  | +        |
-| 5    |          |                                                              |           |          |
-|      |          |                                                              |           |          |
-|      |          |                                                              |           |          |
-|      |          |                                                              |           |          |
+|      | 人物          | 地址                                                         | 项目              | 是否可用 | 限制                  |
+| ---- | ------------- | ------------------------------------------------------------ | ----------------- | -------- | --------------------- |
+| 1    | 周杰伦        | https://huggingface.co/spaces/wangxiuliang01/Voice-Cloning-for-Bilibili | so-vits等         | +        |                       |
+| 2    | B站、孙燕姿等 | https://kevinwang676-test-1.hf.space/                        | so-vits           | +        |                       |
+| 3    | 清/bilibili   | https://kevinwang676-voice-cloning-for-bilibili.hf.space/    | so-vits           | +        |                       |
+| 3    | 音乐生成      | https://huggingface.co/spaces/facebook/MusicGen              | music-gen         | +        |                       |
+| 3    | 音乐生成      | https://huggingface.co/spaces/Surn/UnlimitedMusicGen         | UnlimitedMusicGen | +        | 经常错误              |
+| 4    | 文/音         | https://huggingface.co/spaces/SuCicada/Lain-vits             | TTS/vits          | +        |                       |
+| 5    | 碧蓝档案(141) | https://huggingface.co/spaces/FrankZxShen/so-vits-svc-models-ba | so-vits           | +        |                       |
+| 6    | 公主连结(161) | https://huggingface.co/spaces/FrankZxShen/so-vits-svc-models-pcr | so-vits           | +        |                       |
+| 7    | datealive(4)  | https://huggingface.co/spaces/Wanlau/sovits-4.0_datealive    | so-vits           | +        | 45s                   |
+| 8    | 文转音        | https://kevinwang676-personal-tts.hf.space/                  | so-vits           | +        | 无                    |
+| 9    | 变声器        | https://huggingface.co/spaces/Ricecake123/RVC-demo           | rvc               | +        | 90s，只有一个zundamon |
+| 10   |               |                                                              |                   |          |                       |
+|      |               |                                                              |                   |          |                       |
+|      |               |                                                              |                   |          |                       |
+
+
+
+## 3 工具
+
+|      | 名字     | 链接                                                         | 说明             |
+| ---- | -------- | ------------------------------------------------------------ | ---------------- |
+| 1    | GoldWave | https://www.newasp.com/soft/17851.html<br>https://www.goldwavechina.cn/ | 数字音频编辑软件 |
+| 2    | 在线分离 | https://vocalremover.org/zh/                                 | 在线分离5声道    |
+|      |          |                                                              |                  |
 
