@@ -1,5 +1,5 @@
 # so-vits-models
- 收集有关so-vits的各种模型与应用
+ 收集有关so-vits-svc、TTS的各种模型、应用以及录音有关的软件。
 
 
 
