@@ -91,17 +91,17 @@
 | 7    | datealive(4)  | https://huggingface.co/spaces/Wanlau/sovits-4.0_datealive    | so-vits           | +        | 45s                   |
 | 8    | 文转音        | https://kevinwang676-personal-tts.hf.space/                  | so-vits           | +        | 无                    |
 | 9    | 变声器        | https://huggingface.co/spaces/Ricecake123/RVC-demo           | rvc               | +        | 90s，只有一个zundamon |
-| 10   |               |                                                              |                   |          |                       |
-|      |               |                                                              |                   |          |                       |
-|      |               |                                                              |                   |          |                       |
+| 10   | 图生视频      | https://huggingface.co/spaces/vinthony/SadTalker             | SadTalker         | +        | 等得久                |
+| 11   | 图/视频生视频 | https://huggingface.co/spaces/CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model | SadTalker         | +        | 可用                  |
+| 12   |               |                                                              |                   |          |                       |
 
 
 
 ## 3 工具
 
-|      | 名字     | 链接                                                         | 说明             |
-| ---- | -------- | ------------------------------------------------------------ | ---------------- |
-| 1    | GoldWave | https://www.newasp.com/soft/17851.html<br>https://www.goldwavechina.cn/ | 数字音频编辑软件 |
-| 2    | 在线分离 | https://vocalremover.org/zh/                                 | 在线分离5声道    |
-|      |          |                                                              |                  |
+|      | 名字         | 链接                                                         | 说明             |
+| ---- | ------------ | ------------------------------------------------------------ | ---------------- |
+| 1    | GoldWave     | https://www.newasp.com/soft/17851.html<br>https://www.goldwavechina.cn/ | 数字音频编辑软件 |
+| 2    | 在线分离     | https://vocalremover.org/zh/                                 | 在线分离5声道    |
+| 3    | 即时调音软件 | https://resource.dreamtonics.com.cn/download/                | PRO要钱          |
 
