@@ -92,8 +92,10 @@
 | 8    | 文转音        | https://kevinwang676-personal-tts.hf.space/                  | so-vits           | +        | 无                    |
 | 9    | 变声器        | https://huggingface.co/spaces/Ricecake123/RVC-demo           | rvc               | +        | 90s，只有一个zundamon |
 | 10   | 图生视频      | https://huggingface.co/spaces/vinthony/SadTalker             | SadTalker         | +        | 等得久                |
-| 11   | 图/视频生视频 | https://huggingface.co/spaces/CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model | SadTalker         | +        | 可用                  |
-| 12   |               |                                                              |                   |          |                       |
+| 11   | 图/视频生视频 | https://huggingface.co/spaces/CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model | SadTalker         | -        | 不可用                |
+| 12   | 歌词转歌曲    | https://huggingface.co/spaces/zlc99/M4Singer                 | SVS               | +        | 可用                  |
+| 13   |               |                                                              |                   |          |                       |
+|      |               |                                                              |                   |          |                       |
 
 
 
