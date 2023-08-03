@@ -69,7 +69,7 @@
 | 57   | Madobe Family(5)    | https://huggingface.co/FinalIroha/Madobe_Family_SoVITS4.0_Model | 101.4k   | 4.0     | +          |
 | 58   | 龙王的工作(8)       | https://huggingface.co/FinalIroha/Ryuuou_no_Oshigoto_SoVITS4.1_Model | 9.6k     | 4.1     | +          |
 | 59   | 韩国明星(11)        | https://huggingface.co/Shashashasha                          | 6k+      | 4.0     | -          |
-|      |                     |                                                              |          |         |            |
+| 60   | Praat脚本           | http://www.globalaccentchinese.com/soft.php                  | -        | -       | 有用       |
 |      |                     |                                                              |          |         |            |
 |      |                     |                                                              |          |         |            |
 |      |                     |                                                              |          |         |            |
@@ -94,7 +94,7 @@
 | 10   | 图生视频      | https://huggingface.co/spaces/vinthony/SadTalker             | SadTalker         | +        | 等得久                |
 | 11   | 图/视频生视频 | https://huggingface.co/spaces/CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model | SadTalker         | -        | 不可用                |
 | 12   | 歌词转歌曲    | https://huggingface.co/spaces/zlc99/M4Singer                 | SVS               | +        | 可用                  |
-| 13   |               |                                                              |                   |          |                       |
+| 13   | 自动识物      | https://huggingface.co/spaces/xvjiarui/ODISE                 | SD，图片          | +        | 可用，英文            |
 |      |               |                                                              |                   |          |                       |
 
 
@@ -106,4 +106,5 @@
 | 1    | GoldWave     | https://www.newasp.com/soft/17851.html<br>https://www.goldwavechina.cn/ | 数字音频编辑软件 |
 | 2    | 在线分离     | https://vocalremover.org/zh/                                 | 在线分离5声道    |
 | 3    | 即时调音软件 | https://resource.dreamtonics.com.cn/download/                | PRO要钱          |
+| 4    | Praat        | https://www.fon.hum.uva.nl/praat/download_win.html           | 语言软件         |
 
