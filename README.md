@@ -66,11 +66,12 @@
 | 54   | jokowi              | https://huggingface.co/zhen182/jokowi-so-vits-svc-modelv1    | 2.08k    | 4.0     | -          |
 | 55   | 崩坏                | https://huggingface.co/HaHaiko/SOVITS-SVC-Hi3-Characters     | 1.92k    | 4.0     | -          |
 | 56   | ATRI                | https://huggingface.co/2DIPW/ATRI_SoVITS                     | 39.2k    | 4.0     | +          |
+| 56   | ATRI                | https://huggingface.co/gb16001/sovits4.1_ATRI                | 40k      | 4.1     | +          |
 | 57   | Madobe Family(5)    | https://huggingface.co/FinalIroha/Madobe_Family_SoVITS4.0_Model | 101.4k   | 4.0     | +          |
 | 58   | 龙王的工作(8)       | https://huggingface.co/FinalIroha/Ryuuou_no_Oshigoto_SoVITS4.1_Model | 9.6k     | 4.1     | +          |
 | 59   | 韩国明星(11)        | https://huggingface.co/Shashashasha                          | 6k+      | 4.0     | -          |
 | 60   | Praat脚本           | http://www.globalaccentchinese.com/soft.php                  | -        | -       | 有用       |
-|      |                     |                                                              |          |         |            |
+| 61   | paimon              | https://huggingface.co/gb16001/soVits4.1_paimon              | 41.6k    | 4.1     | +          |
 |      |                     |                                                              |          |         |            |
 |      |                     |                                                              |          |         |            |
 
