@@ -95,7 +95,7 @@
 | 10   | 图生视频      | https://huggingface.co/spaces/vinthony/SadTalker             | SadTalker         | +        | 等得久                |
 | 11   | 图/视频生视频 | https://huggingface.co/spaces/CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model | SadTalker         | -        | 不可用                |
 | 12   | 歌词转歌曲    | https://huggingface.co/spaces/zlc99/M4Singer                 | SVS               | +        | 可用                  |
-| 13   | 自动识物      | https://huggingface.co/spaces/xvjiarui/ODISE                 | SD，图片          | +        | 可用，英文            |
+|      |               |                                                              |                   |          |                       |
 |      |               |                                                              |                   |          |                       |
 
 
