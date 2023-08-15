@@ -72,7 +72,7 @@
 | 59   | 韩国明星(11)        | https://huggingface.co/Shashashasha                          | 6k+      | 4.0     | -          |
 | 60   | Praat脚本           | http://www.globalaccentchinese.com/soft.php                  | -        | -       | 有用       |
 | 61   | paimon              | https://huggingface.co/gb16001/soVits4.1_paimon              | 41.6k    | 4.1     | +          |
-|      |                     |                                                              |          |         |            |
+| 62   | 周杰伦、48系        | https://huggingface.co/sekift/so-vits-svc                    | >10k     | 4.1     | +，可用    |
 |      |                     |                                                              |          |         |            |
 
 
@@ -95,7 +95,7 @@
 | 10   | 图生视频      | https://huggingface.co/spaces/vinthony/SadTalker             | SadTalker         | +        | 等得久                |
 | 11   | 图/视频生视频 | https://huggingface.co/spaces/CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model | SadTalker         | -        | 不可用                |
 | 12   | 歌词转歌曲    | https://huggingface.co/spaces/zlc99/M4Singer                 | SVS               | +        | 可用                  |
-|      |               |                                                              |                   |          |                       |
+| 13   | 人声转木吉他  | https://huggingface.co/spaces/lj1995/vocal2guitar            | RVC               | +        |                       |
 |      |               |                                                              |                   |          |                       |
 
 
