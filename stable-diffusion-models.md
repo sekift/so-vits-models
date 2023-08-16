@@ -67,9 +67,23 @@
 | 56   | [ StyleGAN3 Anime Face Generation (exp002)](https://huggingface.co/spaces/hysts/stylegan3-anime-face-exp002) | 生成动漫              |                                                              |                                                              | GAN                                                          |
 | 57   | [StyleGAN3 Food101](https://huggingface.co/spaces/hysts/stylegan3-food101) | 生成动漫              |                                                              |                                                              | GAN                                                          |
 | 58   | [StyleGAN3 Anime Face Generation (exp001)](https://huggingface.co/spaces/hysts/stylegan3-anime-face-exp001) | 生成动漫              |                                                              |                                                              | GAN                                                          |
-| 59   | [latent-upscaler](https://huggingface.co/stabilityai/sd-x2-latent-upscaler) | 无损放大              |                                                              |                                                              |                                                              |
+| 59   | [latent-upscaler](https://huggingface.co/stabilityai/sd-x2-latent-upscaler) | 图片无损放大          |                                                              |                                                              |                                                              |
 | 60   |                                                              |                       |                                                              |                                                              |                                                              |
 |      |                                                              |                       |                                                              |                                                              |                                                              |
 |      |                                                              |                       |                                                              |                                                              |                                                              |
 |      |                                                              |                       |                                                              |                                                              |                                                              |
+
+## 2 数据集
+
+|      | 名称                                     | 功能             | 论文 | Github | 使用情况                    |
+| ---- | ---------------------------------------- | ---------------- | ---- | ------ | --------------------------- |
+| 1    | [runway](https://app.runwayml.com/login) | 文/图/视频生视频 |      |        | 要注册，免费37s可用，每次3s |
+|      |                                          |                  |      |        |                             |
+
+## 3 网站产品
+
+|      | 名称                                     | 功能             | 论文 | Github | 使用情况                    |
+| ---- | ---------------------------------------- | ---------------- | ---- | ------ | --------------------------- |
+| 1    | [runway](https://app.runwayml.com/login) | 文/图/视频生视频 |      |        | 要注册，免费37s可用，每次3s |
+|      |                                          |                  |      |        |                             |
 
