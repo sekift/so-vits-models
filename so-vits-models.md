@@ -96,7 +96,7 @@
 | 11   | 图/视频生视频 | https://huggingface.co/spaces/CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model | SadTalker         | -        | 不可用                |
 | 12   | 歌词转歌曲    | https://huggingface.co/spaces/zlc99/M4Singer                 | SVS               | +        | 可用                  |
 | 13   | 人声转木吉他  | https://huggingface.co/spaces/lj1995/vocal2guitar            | RVC               | +        |                       |
-|      |               |                                                              |                   |          |                       |
+| 14   | 低配SVC       | https://github.com/yxlllc/DDSP-SVC                           | SVC               | +        | 可用，在CPU上使用SVC  |
 
 
 
