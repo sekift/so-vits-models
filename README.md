@@ -13,5 +13,10 @@
 
 # 2 课程
 
-1. 吴恩达与技术合作的DL教学视频：https://www.deeplearning.ai/short-courses/；本人做的笔记：https://github.com/sekift/so-vits-models/blob/main/stude-deeplearning-wu.md
+1. 吴恩达与技术合作的DL教学视频：https://www.deeplearning.ai/short-courses/；
+
+   小笔记：https://github.com/sekift/so-vits-models/blob/main/stude-deeplearning-wu.md
+
+   别人的中文笔记：https://blog.csdn.net/df007df/category_12457193.html、Github：https://github.com/Starcloud-Cloud/java-langchain/tree/master
+
 2. 
