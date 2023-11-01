@@ -12,4 +12,5 @@
 | 2    | https://agentgpt.reworkd.ai                                  | 可做任务的GPT   |                                                              |                                                              | 可用，每天免费5个任务       |
 | 3    | [SeamlessM4T](https://seamless.metademolab.com)              | 100多种语言翻译 | [论文](https://ai.meta.com/research/publications/seamless-m4t/) | [github](https://github.com/facebookresearch/seamless_communication) | 新出，可用                  |
 | 4    | [LangChain官网](https://www.langchain.com/)、[LangChain中文](https://www.langchain.com.cn/)、[插件](https://smith.langchain.com/hub) | 著名AI APP      |                                                              | [github](https://github.com/hwchase17/langchain-hub)         | 老牌且强大，无需多介绍      |
+| 5    | langchain4j                                                  | Java用LangChain |                                                              | [github](https://github.com/langchain4j/langchain4j)         | Java用的LangChain           |
 
