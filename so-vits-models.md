@@ -73,7 +73,11 @@
 | 60   | Praat脚本           | http://www.globalaccentchinese.com/soft.php                  | -        | -       | 有用       |
 | 61   | paimon              | https://huggingface.co/gb16001/soVits4.1_paimon              | 41.6k    | 4.1     | +          |
 | 62   | 周杰伦、48系        | https://huggingface.co/sekift/so-vits-svc                    | >10k     | 4.1     | +，可用    |
-|      |                     |                                                              |          |         |            |
+| 63   | ATRI                | https://huggingface.co/gb16001/sovits4.1_ATRI/tree/main      | 40k      | 4.1     | +，        |
+| 64   | 李志                | [NanjingLiZhi](https://huggingface.co/souljoy/so-vits-svc-NanjingLiZhi/tree/main) | 10k      | 4.0     |            |
+| 64   | mayday              | https://huggingface.co/souljoy/so-vits-svc-mayday/tree/main  | 10k      | 4.0     |            |
+| 65   | Tokoyami Towa       | https://huggingface.co/Zuiho/sovits_tokoyami_towa            | 139k     | 4.0     |            |
+| 66   |                     |                                                              |          |         |            |
 
 
 
