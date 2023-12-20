@@ -78,7 +78,8 @@
 | 63   | [tryemoji](https://huggingface.co/spaces/leptonai/tryemoji)  | emoji转换             |                                                              |                                                              | 可用，可下载                                                 |
 | 64   | [OutfitAnyone](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone)、[web](https://humanaigc.github.io/outfit-anyone/) | 换衣效果              |                                                              | [github](https://github.com/HumanAIGC/OutfitAnyone)          | 运行错误，繁忙                                               |
 | 65   | [OutfitAnyone](https://humanaigc.github.io/outfit-anyone)    | 图转动画              |                                                              | [github](https://humanaigc.github.io/animate-anyone)         | 只有显示，没找到部署运行                                     |
-|      |                                                              |                       |                                                              |                                                              |                                                              |
+| 66   | [DMV3D](https://justimyhxu.github.io/projects/dmv3d/)        | 图转3D模型            | [2311.09217](https://arxiv.org/abs/2311.09217)               | [github](https://justimyhxu.github.io/projects/dmv3d/)       | 无运行                                                       |
+| 67   |                                                              |                       |                                                              |                                                              |                                                              |
 
 ## 2 数据集
 

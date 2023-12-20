@@ -29,3 +29,4 @@
 
 4. AI算法工程师路线：https://www.huaxiaozhuan.com/
 
+5. AI最新论文收集：http://www.paperreading.club/
