@@ -83,24 +83,26 @@
 
 ## 2 应用
 
-|      | 人物          | 地址                                                         | 项目              | 是否可用 | 限制                  |
-| ---- | ------------- | ------------------------------------------------------------ | ----------------- | -------- | --------------------- |
-| 1    | 周杰伦        | https://huggingface.co/spaces/wangxiuliang01/Voice-Cloning-for-Bilibili | so-vits等         | +        |                       |
-| 2    | B站、孙燕姿等 | https://kevinwang676-test-1.hf.space/                        | so-vits           | +        |                       |
-| 3    | 清/bilibili   | https://kevinwang676-voice-cloning-for-bilibili.hf.space/    | so-vits           | +        |                       |
-| 3    | 音乐生成      | https://huggingface.co/spaces/facebook/MusicGen              | music-gen         | +        |                       |
-| 3    | 音乐生成      | https://huggingface.co/spaces/Surn/UnlimitedMusicGen         | UnlimitedMusicGen | +        | 经常错误              |
-| 4    | 文/音         | https://huggingface.co/spaces/SuCicada/Lain-vits             | TTS/vits          | +        |                       |
-| 5    | 碧蓝档案(141) | https://huggingface.co/spaces/FrankZxShen/so-vits-svc-models-ba | so-vits           | +        |                       |
-| 6    | 公主连结(161) | https://huggingface.co/spaces/FrankZxShen/so-vits-svc-models-pcr | so-vits           | +        |                       |
-| 7    | datealive(4)  | https://huggingface.co/spaces/Wanlau/sovits-4.0_datealive    | so-vits           | +        | 45s                   |
-| 8    | 文转音        | https://kevinwang676-personal-tts.hf.space/                  | so-vits           | +        | 无                    |
-| 9    | 变声器        | https://huggingface.co/spaces/Ricecake123/RVC-demo           | rvc               | +        | 90s，只有一个zundamon |
-| 10   | 图生视频      | https://huggingface.co/spaces/vinthony/SadTalker             | SadTalker         | +        | 等得久                |
-| 11   | 图/视频生视频 | https://huggingface.co/spaces/CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model | SadTalker         | -        | 不可用                |
-| 12   | 歌词转歌曲    | https://huggingface.co/spaces/zlc99/M4Singer                 | SVS               | +        | 可用                  |
-| 13   | 人声转木吉他  | https://huggingface.co/spaces/lj1995/vocal2guitar            | RVC               | +        |                       |
-| 14   | 低配SVC       | https://github.com/yxlllc/DDSP-SVC                           | SVC               | +        | 可用，在CPU上使用SVC  |
+|      | 人物          | 地址                                                         | 项目                   | 是否可用 | 限制                                                         |
+| ---- | ------------- | ------------------------------------------------------------ | ---------------------- | -------- | ------------------------------------------------------------ |
+| 1    | 周杰伦        | https://huggingface.co/spaces/wangxiuliang01/Voice-Cloning-for-Bilibili | so-vits等              | +        |                                                              |
+| 2    | B站、孙燕姿等 | https://kevinwang676-test-1.hf.space/                        | so-vits                | +        |                                                              |
+| 3    | 清/bilibili   | https://kevinwang676-voice-cloning-for-bilibili.hf.space/    | so-vits                | +        |                                                              |
+| 3    | 音乐生成      | https://huggingface.co/spaces/facebook/MusicGen              | music-gen              | +        |                                                              |
+| 3    | 音乐生成      | https://huggingface.co/spaces/Surn/UnlimitedMusicGen         | UnlimitedMusicGen      | +        | 经常错误                                                     |
+| 4    | 文/音         | https://huggingface.co/spaces/SuCicada/Lain-vits             | TTS/vits               | +        |                                                              |
+| 5    | 碧蓝档案(141) | https://huggingface.co/spaces/FrankZxShen/so-vits-svc-models-ba | so-vits                | +        |                                                              |
+| 6    | 公主连结(161) | https://huggingface.co/spaces/FrankZxShen/so-vits-svc-models-pcr | so-vits                | +        |                                                              |
+| 7    | datealive(4)  | https://huggingface.co/spaces/Wanlau/sovits-4.0_datealive    | so-vits                | +        | 限制45s                                                      |
+| 8    | 文转音        | https://kevinwang676-personal-tts.hf.space/                  | so-vits                | +        | 无                                                           |
+| 9    | 变声器        | https://huggingface.co/spaces/Ricecake123/RVC-demo           | rvc                    | +        | 限制90s，只有一个zundamon                                    |
+| 10   | 图生视频      | https://huggingface.co/spaces/vinthony/SadTalker             | SadTalker              | +        | 等得久                                                       |
+| 11   | 图/视频生视频 | https://huggingface.co/spaces/CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model | SadTalker              | -        | 不可用                                                       |
+| 12   | 歌词转歌曲    | https://huggingface.co/spaces/zlc99/M4Singer                 | SVS                    | +        | 可用                                                         |
+| 13   | 人声转木吉他  | https://huggingface.co/spaces/lj1995/vocal2guitar            | RVC                    | +        |                                                              |
+| 14   | 低配SVC       | https://github.com/yxlllc/DDSP-SVC                           | SVC                    | +        | 可用，在CPU上使用SVC                                         |
+| 15   | 声音转换套件  | [sing例子](https://huggingface.co/spaces/amphion/singing_voice_conversion) , [Github](https://github.com/open-mmlab/Amphion) ,[论文](https://arxiv.org/abs/2312.09911) , [首页](https://openmmlab.com/) | TTS、SVC、SVS、so-vits | ++       | amphion家族，例子使用有时候慢并卡死，可多次操作。有和声的部分仍然未解决，训练时间过段，效果不明显。 |
+| 16   |               |                                                              |                        |          |                                                              |
 
 
 
@@ -112,6 +114,7 @@
 | 2    | 在线分离     | https://vocalremover.org/zh/                                 | 在线分离5声道    |
 | 3    | 即时调音软件 | https://resource.dreamtonics.com.cn/download/                | PRO要钱          |
 | 4    | Praat        | https://www.fon.hum.uva.nl/praat/download_win.html           | 语言软件         |
+| 5    | 格式转换     | https://cloudconvert.com/mp4-to-mp3                          | 提供多种格式转换 |
 
 
 
@@ -120,3 +123,5 @@
 |      | 名字     | 链接                  | 说明           |
 | ---- | -------- | --------------------- | -------------- |
 | 1    | chordify | https://chordify.net/ | 在线歌曲乐谱提 |
+| 2    |          |                       |                |
+
