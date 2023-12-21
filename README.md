@@ -8,7 +8,7 @@
 |      | 类型             | 地址                                                         | 功能       | 收集数量 |
 | ---- | ---------------- | ------------------------------------------------------------ | ---------- | -------- |
 | 1    | so-vits-svc      | https://github.com/sekift/so-vits-models/blob/main/so-vits-models.md | 声音       | 80+      |
-| 1    | stable-diffusion | https://github.com/sekift/so-vits-models/blob/main/stable-diffusion-models.md | 图片、图像 | 60+      |
+| 1    | stable-diffusion | https://github.com/sekift/so-vits-models/blob/main/stable-diffusion-models.md | 图片、图像 | 70+      |
 | 2    | llm              | https://github.com/sekift/so-vits-models/blob/main/llm-models.md | 对话、图像 | 10+      |
 
 # 2 课程

@@ -79,7 +79,10 @@
 | 64   | [OutfitAnyone](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone)、[web](https://humanaigc.github.io/outfit-anyone/) | 换衣效果              |                                                              | [github](https://github.com/HumanAIGC/OutfitAnyone)          | 运行错误，繁忙                                               |
 | 65   | [OutfitAnyone](https://humanaigc.github.io/outfit-anyone)    | 图转动画              |                                                              | [github](https://humanaigc.github.io/animate-anyone)         | 只有显示，没找到部署运行                                     |
 | 66   | [DMV3D](https://justimyhxu.github.io/projects/dmv3d/)        | 图转3D模型            | [2311.09217](https://arxiv.org/abs/2311.09217)               | [github](https://justimyhxu.github.io/projects/dmv3d/)       | 无运行                                                       |
-| 67   |                                                              |                       |                                                              |                                                              |                                                              |
+| 67   | [Video-LLaVA](https://huggingface.co/spaces/LanguageBind/Video-LLaVA) | 图像+视频理解         | [2311.10122](https://arxiv.org/pdf/2311.10122.pdf)           | [github](https://github.com/PKU-YuanGroup/Video-LLaVA)       | 可运行，[模型文件](https://huggingface.co/LanguageBind/Video-LLaVA-7B/tree/main) |
+| 68   | [LanguageBind](https://huggingface.co/spaces/LanguageBind/LanguageBind) | 图像/视频转文本       | [2310.01852](https://arxiv.org/pdf/2310.01852.pdf)           | [github](https://github.com/PKU-YuanGroup/LanguageBind)      | 可用，此为对比图像与文本描述的相似度，[模型文件](https://huggingface.co/LanguageBind/LanguageBind_Video_V1.5_FT/tree/main) |
+| 69   | OpenCLIP                                                     | 图生文                | [2103.00020](https://arxiv.org/abs/2103.00020)               | [github](https://github.com/mlfoundations/open_clip)         | 未运行，从openAI开源出来的，colab可试用                      |
+| 70   |                                                              |                       |                                                              |                                                              |                                                              |
 
 ## 2 数据集
 

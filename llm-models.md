@@ -23,4 +23,5 @@
 | 13   | https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard | AI模型及效果对比   |                                                              |                                                              |                                                              |
 | 14   | https://kmind.com/                                           | 具有指令集的AI     |                                                              |                                                              |                                                              |
 | 15   | https://www.coovally.com/                                    | 偏向视觉方向的平台 |                                                              |                                                              |                                                              |
+| 16   |                                                              |                    |                                                              |                                                              |                                                              |
 
