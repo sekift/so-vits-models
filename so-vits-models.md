@@ -1,7 +1,7 @@
 # so-vits-models
  收集有关so-vits-svc、TTS的各种模型、应用以及录音有关的软件。
 
-
+**使用Autodl+so-vits的训练、合成保姆级教学：[知乎连接](https://zhuanlan.zhihu.com/p/626164250?utm_id=0)**
 
 ## 1 模型
 
