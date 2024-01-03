@@ -1,4 +1,4 @@
-# llm-chat-gpt
+# large-language-model
 
  收集有关大模型（LLM）、Chatgpt的各种模型、应用。
 
