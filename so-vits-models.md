@@ -121,7 +121,7 @@
 | 5    | 格式转换     | https://cloudconvert.com/mp4-to-mp3                          | 提供多种格式转换                                             |
 | 6    | acestudio    | https://www.acestudio.ai/                                    | AI歌手编曲软件，最新推出，未试用，估计免费                   |
 | 7    | suno         | https://app.suno.ai/                                         | AI生成逼真的语音、音乐和音效，为游戏、社交媒体、娱乐等领域提供个性化、互动性强和吸引人的体验。需先注册登录。 |
-| 8    |              |                                                              |                                                              |
+| 8    | slicer       | https://github.com/openvpi/audio-slicer                      | 切片工具                                                     |
 | 9    |              |                                                              |                                                              |
 
 
