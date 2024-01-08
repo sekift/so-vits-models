@@ -7,8 +7,8 @@
 
 |      | 类型                   | 地址                                                         | 功能       | 收集数量 |
 | ---- | ---------------------- | ------------------------------------------------------------ | ---------- | -------- |
-| 1    | LLM-Chat               | https://github.com/sekift/so-vits-models/blob/main/llm-chat.md | 对话模型   | 10+      |
-| 2    | LLMs                   | https://github.com/sekift/so-vits-models/blob/main/llm-models.md | 大模型     | 10+      |
+| 1    | LLM-Chat               | https://github.com/sekift/so-vits-models/blob/main/llm-chat.md | 对话模型   | 20+      |
+| 2    | LLMs                   | https://github.com/sekift/so-vits-models/blob/main/llm-models.md | 大模型     | 20+      |
 | 3    | so-vits-svc            | https://github.com/sekift/so-vits-models/blob/main/so-vits-models.md | 声音       | 80+      |
 | 4    | stable-diffusion       | https://github.com/sekift/so-vits-models/blob/main/stable-diffusion-models.md | 图片、图像 | 70+      |
 | 5    | virtual-digital-person | https://github.com/sekift/so-vits-models/blob/main/virtual-digital-person.md | 虚拟数字人 | 10       |
@@ -22,5 +22,5 @@
 | 4    | 智谱、星火、文心评测                                         | https://github.com/sekift/so-vits-models/blob/main/%E5%9B%BD%E5%86%853%E5%A4%A7LLMs(%E6%99%BA%E8%B0%B1%E3%80%81%E6%98%9F%E7%81%AB%EF%BC%8C%E6%96%87%E5%BF%83)%E6%B5%8B%E8%AF%84.md |
 | 5    | AI算法工程师路线                                             | https://www.huaxiaozhuan.com/                                |
 | 6    | AI最新论文收集                                               | http://www.paperreading.club/                                |
-|      |                                                              |                                                              |
+| 7    | AIGC研究合集                                                 | https://gofurther.feishu.cn/docx/Enofdl25BotoVrxth8ec4rNBn5c |
 

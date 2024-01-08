@@ -106,7 +106,7 @@
 | 17   | MusicLM       | https://aitestkitchen.withgoogle.com/                        | SVS                    | -        | 翻墙，google的产品，未测试                                   |
 | 18   | 通义听悟      | https://tingwu.aliyun.com/                                   | SVS                    | ++       | 阿里云的产品，未测试，可以对语音转文本和总结，对话。注册送52小时，2g空间。 |
 | 19   | lalal         | https://www.lalal.ai/                                        |                        |          | 人声分离，单次免费，后面要钱                                 |
-|      |               |                                                              |                        |          |                                                              |
+| 20   | mubert        | https://mubert.com/render                                    | TTS                    | +        | 收费的背景音乐生成器                                         |
 
 
 
