@@ -1,4 +1,6 @@
 # 各种LLM/AI相关的收集
+**AI新闻、AI新媒体相关信息请打开并收藏：https://link3.cc/ainews**
+
 收集各种llm、so-vits-svc、stable-diffusion相关的model、application、dataset。
 
 **配合ChatGLM，帮你阅读论文，全而准：https://www.aminer.cn/**
@@ -12,6 +14,7 @@
 | 3    | so-vits-svc            | https://github.com/sekift/so-vits-models/blob/main/so-vits-models.md | 声音       | 80+      |
 | 4    | stable-diffusion       | https://github.com/sekift/so-vits-models/blob/main/stable-diffusion-models.md | 图片、图像 | 70+      |
 | 5    | virtual-digital-person | https://github.com/sekift/so-vits-models/blob/main/virtual-digital-person.md | 虚拟数字人 | 10       |
+| 6    | prompt-engineering     | https://github.com/sekift/so-vits-models/blob/main/prompt-engineering.md | 提示语工程 | 1+       |
 
 ## 2 课程/综述
 
