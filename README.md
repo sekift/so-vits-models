@@ -13,7 +13,7 @@
 | 2    | LLMs                   | https://github.com/sekift/so-vits-models/blob/main/llm-models.md | 大模型     | 20+      |
 | 3    | so-vits-svc            | https://github.com/sekift/so-vits-models/blob/main/so-vits-models.md | 声音       | 80+      |
 | 4    | stable-diffusion       | https://github.com/sekift/so-vits-models/blob/main/stable-diffusion-models.md | 图片、图像 | 70+      |
-| 5    | virtual-digital-person | https://github.com/sekift/so-vits-models/blob/main/virtual-digital-person.md | 虚拟数字人 | 10       |
+| 5    | virtual-digital-person | https://github.com/sekift/so-vits-models/blob/main/virtual-digital-person.md | 虚拟数字人 | 10-      |
 | 6    | prompt-engineering     | https://github.com/sekift/so-vits-models/blob/main/prompt-engineering.md | 提示语工程 | 1+       |
 
 ## 2 课程/综述
@@ -26,4 +26,13 @@
 | 5    | AI算法工程师路线                                             | https://www.huaxiaozhuan.com/                                |
 | 6    | AI最新论文收集                                               | http://www.paperreading.club/                                |
 | 7    | AIGC研究合集                                                 | https://gofurther.feishu.cn/docx/Enofdl25BotoVrxth8ec4rNBn5c |
+
+## 3 AI赛道
+
+| 序号 | 类型 | 赛道                                                         |
+| ---- | ---- | ------------------------------------------------------------ |
+| 1    | 文字 | 1.Q&A<br>2.聊天<br>3.续写<br>4.分析总结<br>5.编程<br>        |
+| 2    | 图像 | 1.文生图<br>2.图生文<br>3.修改<br>4.换脸<br>5.高清<br>6.无损放大<br>7.漫画脸<br>8.艺术二维码<br>9.转3D<br/>10.转彩色<br/>11.物体检测<br/>12.人脸识别<br/> |
+| 3    | 语音 | 1.文生语音<br>2.语音生文<br/>3.音色替换<br/>4.生成歌曲/背景音乐<br/> |
+| 4    | 视频 | 1.文生视频<br>2.图生视频<br/>3.视频生文/图<br/>4.虚拟人直播<br/> |
 
