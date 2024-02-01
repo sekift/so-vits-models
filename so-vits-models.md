@@ -108,8 +108,12 @@
 | 19   | lalal                                      | https://www.lalal.ai/                                        |                        |          | 人声分离，单次免费，后面要钱                                 |
 | 20   | mubert                                     | https://mubert.com/render                                    | TTS                    | +        | 收费的背景音乐生成器                                         |
 | 21   | artflow                                    | https://app.artflow.ai                                       | 故事转视频             | ++       | 可以将整个故事转12种不同风格的视频形式，可以对单个片段进行例外操作 |
-| 22   |                                            |                                                              |                        |          |                                                              |
-| 23   |                                            |                                                              |                        |          |                                                              |
+| 22   | synthesia                                  | https://www.synthesia.io/                                    |                        |          | AI文字转视频，无需翻墙，要钱                                 |
+| 23   | play.ht                                    | https://play.ht                                              |                        |          | AI文字转语音，有免费部分                                     |
+| 24   | weta365                                    | https://www.weta365.com/                                     |                        |          | AI语音、视频各种，商用，要钱                                 |
+| 25   | 视频生成                                   | https://studio.d-id.com/                                     |                        |          | AI视频生成                                                   |
+| 26   |                                            |                                                              |                        |          |                                                              |
+|      |                                            |                                                              |                        |          |                                                              |
 
 
 
