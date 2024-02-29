@@ -100,7 +100,7 @@
 | 3    | [clipdrop](https://clipdrop.co/)         | 取消裁剪                       |      |                                                    | Clipdrop是一款在线图片智能补全工具，其中的Uncrop功能可以实现扩图。虽然免费次数有限，但效果还不错，可以考虑试试。需翻墙 |
 | 4    | [ishencai](https://www.ishencai.com/)    | 神采AI                         |      |                                                    | 神采AI-尺寸外扩是9月上线的新工具，生成速度和效果都很不错。不仅操作简单，而且可以输入提示词来控制画面效果，非常推荐哦。 |
 | 5    | [seaart](https://www.seaart.ai/)         | 海艺AI                         |      |                                                    | 类似吐司AI的网站，需翻墙。每日免费使用。                     |
-|      |                                          |                                |      |                                                    |                                                              |
+| 6    | [aitubo](https://creator.aitubo.ai/)     | aitubo图片生成                 |      |                                                    | 类似吐司AI的网站，需翻墙。使用名额。                         |
 |      |                                          |                                |      |                                                    |                                                              |
 |      |                                          |                                |      |                                                    |                                                              |
 
