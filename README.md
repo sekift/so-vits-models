@@ -18,7 +18,7 @@
 
 ## 2 课程/综述
 
-| 1    | **LLM模型大综述（必读）**<br>论文地址                        | https://github.com/RUCAIBox/LLMSurvey<br/>https://arxiv.org/abs/2303.18223 [LLM综述]<br/>https://arxiv.org/abs/2311.07989 [代码LLM综述]<br/> |
+| 1    | **LLM模型大综述（必读）**<br>代码大模型综述                  | https://github.com/RUCAIBox/LLMSurvey<br/>https://arxiv.org/abs/2303.18223 <br/>https://arxiv.org/abs/2311.07989<br/> |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2    | 吴恩达与技术合作的DL教学视频<br/>小笔记<br/>别人的中文笔记<br/>Github | https://www.deeplearning.ai/short-courses/<br/>https://github.com/sekift/so-vits-models/blob/main/stude-deeplearning-wu.md<br/>https://blog.csdn.net/df007df/category_12457193.html<br/>https://github.com/Starcloud-Cloud/java-langchain/tree/master |
 | 3    | 视觉GPT复现教程<br/>原github                                 | https://github.com/sekift/so-vits-models/blob/main/visual-chatgpt-build.md<br/>https://github.com/microsoft/TaskMatrix |
