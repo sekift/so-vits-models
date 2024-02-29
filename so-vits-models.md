@@ -112,7 +112,7 @@
 | 23   | play.ht                                    | https://play.ht                                              |                        |          | AI文字转语音，有免费部分                                     |
 | 24   | weta365                                    | https://www.weta365.com/                                     |                        |          | AI语音、视频各种，商用，要钱                                 |
 | 25   | 视频生成                                   | https://studio.d-id.com/                                     |                        |          | AI视频生成                                                   |
-| 26   |                                            |                                                              |                        |          |                                                              |
+| 26   | MyShellAi                                  | [官网](https://app.myshell.ai/zh/chat?shareCode=8c677b7a1d3249f98cda733b7e1df244&bot=1&botId=27049) | 语音聊天机器人         | +        | 可用，需要翻墙                                               |
 |      |                                            |                                                              |                        |          |                                                              |
 
 
@@ -135,8 +135,12 @@
 
 ## 4 网站应用
 
-|      | 名字     | 链接                  | 说明           |
-| ---- | -------- | --------------------- | -------------- |
-| 1    | chordify | https://chordify.net/ | 在线歌曲乐谱提 |
-| 2    |          |                       |                |
+|      | 名字       | 链接                                   | 说明                   |
+| ---- | ---------- | -------------------------------------- | ---------------------- |
+| 1    | chordify   | https://chordify.net/                  | 在线歌曲乐谱提         |
+| 2    | 网易天音   | https://tianyin.163.com/               | 在线音乐制作平台       |
+| 3    | TME Studio | https://y.qq.com/tme_studio/index.html | 创新的智能音乐创作助手 |
+| 4    | 网易云音乐 | https://xstudio.music.163.com/         | AI音乐创作工具         |
+| 5    | BGM猫      | https://bgmcat.com/home                | 在线背景音乐制作平台   |
+|      |            |                                        |                        |
 

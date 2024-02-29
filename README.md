@@ -7,14 +7,14 @@
 
 ## 1 点击下面明细跳转
 
-|      | 类型                   | 地址                                                         | 功能       | 收集数量 |
-| ---- | ---------------------- | ------------------------------------------------------------ | ---------- | -------- |
-| 1    | LLM-Chat               | https://github.com/sekift/so-vits-models/blob/main/llm-chat.md | 对话模型   | 20+      |
-| 2    | LLMs                   | https://github.com/sekift/so-vits-models/blob/main/llm-models.md | 大模型     | 20+      |
-| 3    | so-vits-svc            | https://github.com/sekift/so-vits-models/blob/main/so-vits-models.md | 声音       | 80+      |
-| 4    | stable-diffusion       | https://github.com/sekift/so-vits-models/blob/main/stable-diffusion-models.md | 图片、图像 | 70+      |
-| 5    | virtual-digital-person | https://github.com/sekift/so-vits-models/blob/main/virtual-digital-person.md | 虚拟数字人 | 10-      |
-| 6    | prompt-engineering     | https://github.com/sekift/so-vits-models/blob/main/prompt-engineering.md | 提示语工程 | 10-      |
+|      | 类型                   | 地址                                                         | 功能                | 收集数量 |
+| ---- | ---------------------- | ------------------------------------------------------------ | ------------------- | -------- |
+| 1    | LLM-Chat               | https://github.com/sekift/so-vits-models/blob/main/llm-chat.md | 对话模型            | 20+      |
+| 2    | LLMs                   | https://github.com/sekift/so-vits-models/blob/main/llm-models.md | 大模型              | 20+      |
+| 3    | so-vits-svc            | https://github.com/sekift/so-vits-models/blob/main/so-vits-models.md | 声音                | 80+      |
+| 4    | stable-diffusion       | https://github.com/sekift/so-vits-models/blob/main/stable-diffusion-models.md | 图片、图像          | 70+      |
+| 5    | virtual-digital-person | https://github.com/sekift/so-vits-models/blob/main/virtual-digital-person.md | 虚拟数字人/生成视频 | 10-      |
+| 6    | prompt-engineering     | https://github.com/sekift/so-vits-models/blob/main/prompt-engineering.md | 提示语工程          | 10-      |
 
 ## 2 课程/综述
 
