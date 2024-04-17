@@ -17,6 +17,7 @@
 | 7    | 智脑     | https://ai.360.cn/                             | 1000                                                | 对话                         | 360                                                  | -    |
 | 8    | 山海     | https://shanhai.unisound.com/                  | 1000                                                | 对话                         | 云知声                                               | -    |
 | 9    | 百川     | https://www.baichuan-ai.com/                   | 530                                                 | 对话                         | 百川智能                                             | -    |
+| 10   | 月之暗面 | https://www.moonshot.cn                        | -                                                   | 对话                         | 月之暗面                                             | -    |
 
 ## 2 国外应用
 

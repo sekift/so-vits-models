@@ -88,7 +88,7 @@
 | 1    | 周杰伦                                     | https://huggingface.co/spaces/wangxiuliang01/Voice-Cloning-for-Bilibili | so-vits等              | +        |                                                              |
 | 2    | B站、孙燕姿等                              | https://kevinwang676-test-1.hf.space/                        | so-vits                | +        |                                                              |
 | 3    | 清/bilibili                                | https://kevinwang676-voice-cloning-for-bilibili.hf.space/    | so-vits                | +        |                                                              |
-| 3    | 音乐生成                                   | https://huggingface.co/spaces/facebook/MusicGen              | music-gen              | +        |                                                              |
+| 3    | 音乐生成                                   | https://huggingface.co/spaces/facebook/MusicGen              | music-gen              | ++       | 可用                                                         |
 | 3    | 音乐生成                                   | https://huggingface.co/spaces/Surn/UnlimitedMusicGen         | UnlimitedMusicGen      | +        | 经常错误                                                     |
 | 4    | 文/音                                      | https://huggingface.co/spaces/SuCicada/Lain-vits             | TTS/vits               | +        |                                                              |
 | 5    | 碧蓝档案(141)                              | https://huggingface.co/spaces/FrankZxShen/so-vits-svc-models-ba | so-vits                | +        |                                                              |

@@ -6,14 +6,18 @@
 
 ## 1 应用
 
-|      | 名称                                   | 功能                        | 论文 | Github | 使用情况                                                     |
-| ---- | -------------------------------------- | --------------------------- | ---- | ------ | ------------------------------------------------------------ |
-| 1    | [数字人口播](https://studio.d-id.com/) | studio.d-id，虚拟数字人播报 |      |        | 无需翻墙，直接可用，免费20分钟                               |
-| 2    | https://app.heygen.com/                | 黑根，虚拟人                |      |        | 需翻墙，可以用邮箱无需注册，[教程](https://zhuanlan.zhihu.com/p/666671104) |
-| 3    | https://zenvideo.qq.com/               | 腾讯智影                    |      |        | 腾讯出的AI数字人，邀请3天体验                                |
-| 4    | https://pixverse.ai/                   | pixverse                    |      |        | 无需翻墙，AI视频制作                                         |
-| 5    |                                        |                             |      |        |                                                              |
-| 6    |                                        |                             |      |        |                                                              |
+|      | 名称                                               | 功能                        | 论文 | Github | 使用情况                                                     |
+| ---- | -------------------------------------------------- | --------------------------- | ---- | ------ | ------------------------------------------------------------ |
+| 1    | [数字人口播](https://studio.d-id.com/)             | studio.d-id，虚拟数字人播报 |      |        | 无需翻墙，直接可用，免费20分钟                               |
+| 2    | https://app.heygen.com/                            | 黑根，虚拟人                |      |        | 需翻墙，可以用邮箱无需注册，[教程](https://zhuanlan.zhihu.com/p/666671104) |
+| 3    | https://zenvideo.qq.com/                           | 腾讯智影                    |      |        | 腾讯出的AI数字人，邀请3天体验                                |
+| 4    | https://pixverse.ai/                               | pixverse                    |      |        | 无需翻墙，AI视频制作                                         |
+| 5    | https://www.deepbrain.io/                          | deepbrain                   |      |        | 国外的站，访问慢                                             |
+| 6    | https://lumen5.com/                                | lumen5                      |      |        | 免费试用，需注册                                             |
+| 7    | https://github.com/nateraw/stable-diffusion-videos | SDV                         |      |        | 以SD为基础的，可以在Colab使用，一般要40G的GPU                |
+| 8    | https://makeavideo.studio/                         | Make-A-Video                |      |        | 一张图片生成视频，天马行空                                   |
+| 9    | https://www.synthesia.io/                          | synthesia                   |      |        | 需翻墙                                                       |
+| 10   |                                                    |                             |      |        |                                                              |
 
 ## 2 Sora存在的问题[20240229]
 
