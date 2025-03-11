@@ -18,6 +18,7 @@
 | 8    | 山海     | https://shanhai.unisound.com/                  | 1000                                                | 对话                         | 云知声                                               | -    |
 | 9    | 百川     | https://www.baichuan-ai.com/                   | 530                                                 | 对话                         | 百川智能                                             | -    |
 | 10   | 月之暗面 | https://www.moonshot.cn                        | -                                                   | 对话                         | 月之暗面                                             | -    |
+| 11   | DeepSeek | https://chat.deepseek.com/                     | 6710                                                | 对话                         | DeepSeek，经常性繁忙，可自行部署                     |      |
 
 ## 2 国外应用
 
