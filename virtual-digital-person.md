@@ -17,7 +17,7 @@
 | 7    | https://github.com/nateraw/stable-diffusion-videos | SDV                         |      |        | 以SD为基础的，可以在Colab使用，一般要40G的GPU                |
 | 8    | https://makeavideo.studio/                         | Make-A-Video                |      |        | 一张图片生成视频，天马行空                                   |
 | 9    | https://www.synthesia.io/                          | synthesia                   |      |        | 需翻墙                                                       |
-| 10   |                                                    |                             |      |        |                                                              |
+| 10   | Topaz Video AI v6.0.2                              | AI视频修复                  |      |        | 可用，只有下载模型，CPU适用                                  |
 
 ## 2 Sora存在的问题[20240229]
 

@@ -103,4 +103,5 @@
 | 6    | [aitubo](https://creator.aitubo.ai/)     | aitubo图片生成                 |      |                                                    | 类似吐司AI的网站，需翻墙。使用名额。                         | 2024.05  |
 | 7    | [viggle](https://viggle.ai/)             | 图片转视频                     |      |                                                    | 把静态图片变成动态或按照视频的动作进行替换                   | 2025.03  |
 | 8    | manus                                    |                                |      |                                                    |                                                              | 2025.03  |
+| 9    | [viggle.ai](https://www.viggle.ai)       | 视频角色替换                   |      |                                                    | 靜態圖片中的角色替換至現有影片中，提供各APP免费使用          | 2025.05  |
 
