@@ -133,7 +133,7 @@
 | 6    | acestudio    | https://www.acestudio.ai/                                    | AI歌手编曲软件，最新推出，未试用，估计免费                   |
 | 7    | suno         | https://app.suno.ai/                                         | AI生成逼真的语音、音乐和音效，为游戏、社交媒体、娱乐等领域提供个性化、互动性强和吸引人的体验。需先注册登录。 |
 | 8    | slicer       | https://github.com/openvpi/audio-slicer                      | 切片工具                                                     |
-| 9    |              |                                                              |                                                              |
+| 9    | NovaMss      | https://www.novamss.com/                                     | 语言分离工具，桌面版，可用，可批量，分离出4个音轨，免费用，专业部分要会员，强烈推荐。 |
 
 
 
